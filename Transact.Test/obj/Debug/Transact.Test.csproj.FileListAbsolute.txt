@@ -1,0 +1,5 @@
+E:\Velkumar\Projects\Transact.Test\Transact.Test\bin\Debug\Transact.Test.exe.config
+E:\Velkumar\Projects\Transact.Test\Transact.Test\bin\Debug\Transact.Test.exe
+E:\Velkumar\Projects\Transact.Test\Transact.Test\bin\Debug\Transact.Test.pdb
+E:\Velkumar\Projects\Transact.Test\Transact.Test\obj\Debug\Transact.Test.exe
+E:\Velkumar\Projects\Transact.Test\Transact.Test\obj\Debug\Transact.Test.pdb
